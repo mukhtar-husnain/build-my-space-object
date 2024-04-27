@@ -1,0 +1,34 @@
+{
+  "name": "build-my-space-object",
+  "version": "1.0.0",
+  "description": "Allows the user to draw arbitrary 2D shapes on the ground plane, extrude them into 3D objects with a fixed height, and then manipulate those objects by moving the object and editing their vertices using buttons for mode selection.",
+  "main": "engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhtar-husnain/build-my-space-object.git"
+  },
+  "keywords": [
+    "babylon",
+    "2D",
+    "2d",
+    "3D",
+    "3d",
+    "extrusion",
+    "draw",
+    "objects"
+  ],
+  "author": "Mukhtar Husnain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukhtar-husnain/build-my-space-object/issues"
+  },
+  "homepage": "https://github.com/mukhtar-husnain/build-my-space-object#readme",
+  "dependencies": {
+    "babylon": "^6.18.0",
+    "babylonjs": "^7.4.0",
+    "js": "^0.1.0"
+  }
+}
